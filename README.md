@@ -67,3 +67,13 @@ flutter run
 ## 📡 Sobre o Projeto
 
 O **AgroSat Alert** conecta dados dos satélites **CBERS-4A**, **Sentinel-1A** e **GOES-16** diretamente ao produtor rural brasileiro, emitindo alertas climáticos antes que eventos afetam as safras.
+
+## 👥 Integrantes
+
+| Nome | RM |
+|---|---|
+| Lucas Lima | 550255 |
+| Bruno Cesar | 554878 |
+| Giovanni Sguizzardi | 565123 |
+
+---
